@@ -1,5 +1,5 @@
-# CIPI 4 is coming...
+#CIPI v4 in the works
 
-Currently DO NOT USE Master branch... I'm working on it! Use 3.x branch!
+Dear all, I have adopted cipi v4 since there is no license for the main project as well as v4 is not out yet, so I will be handling the new pull requests as well as working hard on many new features with premium ones
 
-Documentation is available on www.cipi.sh website!
+Stay Tuned!
